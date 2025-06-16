@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @filmroyalp
-- Currently Choosing weather doing Biology or Physics
-- High school rn
-- Writes : Python, Html
 
 filmroyalp@gmail.com
 
